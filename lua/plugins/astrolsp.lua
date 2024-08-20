@@ -59,6 +59,21 @@ return {
           "heex",
         },
       },
+      emmet_ls = {
+        filetypes = {
+          "css",
+          "eruby",
+          "html",
+          "javascript",
+          "javascriptreact",
+          "less",
+          "sass",
+          "scss",
+          "pug",
+          "typescriptreact",
+          "heex",
+        },
+      },
     },
     -- customize how language servers are attached
     handlers = {
